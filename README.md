@@ -1,2 +1,2 @@
-# hello-world
+# Front-end Mentor Challenge
 
